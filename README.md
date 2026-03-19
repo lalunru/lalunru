@@ -37,7 +37,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=lalunru&custom_title=lalunru's%20Github%20Stat&theme=dracula&hide_rank=true" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalunru&layout=compact&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalunru&layout=compact&theme=dracula&cache_seconds=0" />
     </div>
     <br>
     <img src="https://streak-stats.demolab.com?user=lalunru&theme=dracula&date_format=j%20M%5B%20Y%5D" />
