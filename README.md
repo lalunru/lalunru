@@ -1,45 +1,52 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Seongyeon's%20GitHub&animation=&fontColor=ffffff&fontSize=70" />
-</div>
-<div align="center">
-    <h3>🎨 Fine Arts × 💻 Computer Science
-    <p>
-        Building things at the intersection of logic and creativity.
-    </p>
-</div>
+# Hi, I'm Seongyeon 👋
 
-<div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2> <br>
-    <div style="margin: 0 auto; text-align: center;">
-        <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=Unity&logoColor=white">
-        <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
-    </div>
-</div>
+**Fine Arts × Computer Science · [@lalunru](https://github.com/lalunru)**
 
-<div align="center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📱 Contact </h2> <br>
-    <div style="margin: 0 auto; text-align: center;">
-        <a href="https://www.linkedin.com/in/%EC%84%B1%EC%97%B0-%EA%B9%80-6034883a2"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-        <a href="https://www.instagram.com/wwwuoahcom"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
-        <a href="mailto:aa40272446@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
-        <a href="https://www.notion.so/Main-3438ecea43ae80889a92e30374f47f76"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> </a>
-        <a href="https://lalunru.tistory.com"> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"> </a>
-    </div>
-</div>
+> I build at the intersection of logic and creativity — from realtime shaders and VR worlds to explainable AI and design systems.
 
-<div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lalunru&custom_title=lalunru's%20Github%20Stat&theme=dracula&hide_rank=true" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalunru&layout=compact&theme=dracula&cache_seconds=0" />
-    </div>
-    <br>
-    <img src="https://streak-stats.demolab.com?user=lalunru&theme=dracula&date_format=j%20M%5B%20Y%5D" />
-</div>
+---
+
+## 🚀 What I Ship
+
+- **VR / Game** — custom GLSL shaders, URP optimization, multi-ending narrative systems
+- **XAI pipelines** — IDS with XGBoost + SHAP/LIME explainability on UNSW-NB15
+- **Frontend systems** — Figma-to-production, design token automation, realtime WebSocket data
+- **NPR rendering research** — raymarching, edge detection, space-folding in GLSL (Shadertoy + Unity URP)
+
+## 🏆 Highlighted Work
+
+**[AssetMind](https://github.com/ASSETMIND/AssetMind)** — Financial asset management web service. Tailwind Config ↔ Storybook auto-mapping, realtime order book via WebSocket (STOMP) + React Query.
+
+**[Line 0](https://github.com/lalunru/unity-vr-game-project)** — VR horror adventure for Meta Quest 2. Custom GLSL shaders, baked lightmap migration → stable 72fps.
+
+**[Beyond the Door of Memory](https://github.com/lalunru/unity-2d-adventure-memory)** — 2D emotional adventure. Hand-drawn sprites, AI pathfinding chase, multi-ending branch system.
+
+**[NPR Shaders](https://github.com/lalunru/npr-shaders)** — Personal research into non-photorealistic rendering in GLSL and Unity URP. Space-folding transforms, raymarching, edge detection — live demos on Shadertoy
+
+**[XAI Network Intrusion Detection](https://github.com/lalunru/XAI-Network-Intrusion-Detection-System)** — Graduation thesis. XGBoost IDS on UNSW-NB15 · F1: **0.95** · ROC-AUC: **0.97** · SHAP + LIME explainability.
+
+**[Malicious URL Classification](https://github.com/lalunru/Malicious-URL-Classification)** — LSTM on URL sequences + 9 handcrafted features · **92% accuracy** across 4 classes.
+
+## 🛠 Stack
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat&logo=opengl&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=flat&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
+
+## 📫 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lalunrus-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%EC%97%B0-%EA%B9%80-6034883a2)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://lalunru.tistory.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aa40272446@gmail.com)
+
+---
+
+🎓 **Currently:** B.S. Computer Science (graduated) · Open to new opportunities
