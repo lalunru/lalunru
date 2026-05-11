@@ -1,4 +1,4 @@
-# Hi, I'm Seongyeon 👋
+# Hi, I'm Seongyeon 👽
 
 **Fine Arts × Computer Science · [@lalunru](https://github.com/lalunru)**
 
@@ -13,7 +13,7 @@
 - **Frontend systems** — Figma-to-production, design token automation, realtime WebSocket data
 - **NPR rendering research** — raymarching, edge detection, space-folding in GLSL (Shadertoy + Unity URP)
 
-## 🏆 Highlighted Work
+## 🛸 Highlighted Work
 
 **[AssetMind](https://github.com/ASSETMIND/AssetMind)** — Financial asset management web service. Tailwind Config ↔ Storybook auto-mapping, realtime order book via WebSocket (STOMP) + React Query.
 
